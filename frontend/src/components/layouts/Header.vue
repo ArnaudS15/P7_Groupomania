@@ -16,7 +16,7 @@ export default {
 
 <style scoped>
     header{
-        background-color: #081961;
+        background-color: #112441;
         margin-bottom: 30px;
     }
 

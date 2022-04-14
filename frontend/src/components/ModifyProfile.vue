@@ -127,7 +127,7 @@ export default {
                 return true;
             }else{
                 this.valid[input] = false;
-                if(text.length > 25){this.error[input] = 'Longueur du champ dépassée !';}
+                if(text.length > 25){this.error[input] = 'Longueur de champ dépassée !';}
                 else this.error[input] = 'Champ invalide !';
                 return false;
             }
@@ -169,11 +169,11 @@ export default {
     section{
         width: 95%;
         margin-top: 20px;   
-        background-color: #081961;
+        background-color: #112441;
     }
 
     section div{
-        background-color: #081961;
+        background-color: #112441;
         padding: 5px;
          
     }

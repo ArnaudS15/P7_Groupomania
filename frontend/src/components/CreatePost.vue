@@ -146,7 +146,7 @@ export default {
     }
 
     section{
-        background-color: #081961;
+        background-color: #112441;
         padding: 5px;
     }
 

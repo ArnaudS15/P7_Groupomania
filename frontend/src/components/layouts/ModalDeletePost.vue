@@ -47,7 +47,7 @@ export default {
     .modal-bloc{
         position: fixed;
         width: 95%;
-        background-color: #081961;
+        background-color: #112441;
         padding: 15px 5px 5px 5px;
     }
 

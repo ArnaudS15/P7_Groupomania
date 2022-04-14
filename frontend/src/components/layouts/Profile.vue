@@ -61,7 +61,7 @@ export default {
     aside{
         width: 95%;
         padding: 20px;
-        background-color: #081961;
+        background-color: #112441;
         font-size: 1.4rem;
         display: flex;
         justify-content: space-between;      

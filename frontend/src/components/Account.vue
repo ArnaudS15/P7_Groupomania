@@ -44,13 +44,13 @@ export default {
         width: 95%;
         margin: auto;
         margin-top: 30px;
-        background-color: #081961;
+        background-color: #112441;
     }
 
     .div-btn{
         display: flex;
         justify-content: space-between;
-        background-color: #081961;
+        background-color: #112441;
     }
 
     .btn{
@@ -65,7 +65,7 @@ export default {
     }
 
     .btn--select{
-        background-color: #081961;
+        background-color: #112441;
     }
 
     .div-account{

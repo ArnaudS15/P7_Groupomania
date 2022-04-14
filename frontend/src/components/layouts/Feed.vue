@@ -139,7 +139,7 @@ export default {
     }
     article{
         width: 100%;
-        background-color: #081961;
+        background-color: #112441;
         margin-bottom: 15px;
         padding: 50px;
         box-shadow: 10px;
@@ -209,9 +209,10 @@ export default {
         border: none;
         border-radius: 5px;
         padding: 0 20px;
-        color: #ffffff;
+        color: #000000;
         background-color: #e15057;
         margin-bottom: 10px;
+        font-weight: bold;
     }
     button:hover{
         background-color: #000000;
